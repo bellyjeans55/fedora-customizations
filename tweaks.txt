@@ -1,0 +1,34 @@
+Theme:
+    GTK+: Arc
+    Icons: Moka
+    Shell theme: Arc
+    Buttons to left: "dconf write /org/gnome/shell/overrides/button-layout "'close,minimize,maximize:'"
+
+Desktop:
+    Trash: True
+    Mounted: Volumes: True
+
+Extensions:
+    Applications menu
+    Dash to Dock: bottom, intelligent autohide, 43% dock size, 37px icon size, show favorite applications, show running applications, show applications icon, show window counters, opacity 70%
+    No topleft hot corner
+    Panel osd: 100% horizontal, 100% vertical
+    Places indicator
+    User themes
+    Windownavigator
+
+Fonts:
+    Cantarell 11
+    Scaling factor: 1.33
+
+Keyboard and Mouse:
+    Click method: fingers
+
+Startup Applications:
+    devilspie2
+
+Typing:
+    Swap left alt key with left ctrl key
+
+Workspaces:
+    Creation: dynamic

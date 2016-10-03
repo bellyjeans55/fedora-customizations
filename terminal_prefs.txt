@@ -1,0 +1,11 @@
+Shortcuts:
+  new terminal: ctrl+t
+  close terminal: ctrl+w
+  close all terminals: ctrl+q
+  copy: ctrl+c
+  pasate+ ctrl+v
+
+Profiles:
+  Name: Blue Pastel
+  Initial size: 80x35
+  Background color: #434552
