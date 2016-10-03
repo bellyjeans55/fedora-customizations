@@ -1,0 +1,11 @@
+Fedora Migration
+
+1. about:config and "Pixelsperpx" in firefox
+2. custom command in settings (Super+T for gnome-terminal)
+3. SpiderOakBlue
+4. Applications: JBoss Dev Studio, devilspie2, hexchat, chrome, postman, vlc, video codecs
+
+Useful Docs:
+https://mojo.redhat.com/docs/DOC-1017803
+https://mojo.redhat.com/docs/DOC-935948
+https://mojo.redhat.com/people/plambri/blog/2015/04/11/import-red-hat-ca-certs
