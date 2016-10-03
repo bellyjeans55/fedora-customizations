@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=JBoss Developer Studio
+Exec=/home/jokay/jbdevstudio/studio/jbdevstudio
+Icon=/home/jokay/jbdevstudio/studio/128-jbds_icon.png
+Type=Application
+Comment=JBDS
+Terminal=false
+Categories=Programming;
