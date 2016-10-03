@@ -1,0 +1,34 @@
+[connection]
+id=Red Hat Amsterdam
+uuid=83c56600-91fb-4b0c-9935-2a42763b942a
+type=vpn
+autoconnect=false
+permissions=user:jokay:;
+secondaries=
+
+[vpn]
+NAT Traversal Mode=natt
+ipsec-secret-type=save
+IPSec secret-flags=0
+xauth-password-type=ask
+Vendor=cisco
+Xauth username=jokay
+IPSec gateway=vpn-ams2.redhat.com
+Xauth password-flags=2
+IPSec ID=RH-standard
+Perfect Forward Secrecy=server
+IKE DH Group=dh2
+Local Port=0
+service-type=org.freedesktop.NetworkManager.vpnc
+
+[vpn-secrets]
+IPSec secret=nodnerip
+
+[ipv4]
+dns-search=
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+method=auto
